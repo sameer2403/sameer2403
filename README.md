@@ -37,16 +37,17 @@
 ---
 
 ### Stats 📈
+
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
     <td>
       <a href="https://github.com/sameer2403" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=sameer2403&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="saikat's github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=sameer2403&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db" alt="sameer's github stats">
       <a/>
     </td>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer2403&theme=ayu-mirage&layout=compact&hide_border=true" alt="saikat's language stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer2403&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="sameer's language stats">
       <a/>
     </td>
    </tr>
@@ -54,7 +55,7 @@
   <tr>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer2403&theme=ayu-mirage&hide_border=true" alt="saikatishal streak stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer2403&theme=ayu-mirage&hide_border=true" alt="sameer streak stats">
       <a/>
     </td>
    </tr>
