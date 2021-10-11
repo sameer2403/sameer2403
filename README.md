@@ -3,7 +3,7 @@
  
 <img src="https://komarev.com/ghpvc/?username=sameer2403&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="saikatbishal github profil visit" />
 
-## I'm a 🎓 Student and an Open-Source enthusiast !!
+## I'm an Open-Source enthusiast !!
 - 🌱 I’m currently learning Backend and trying my hands on competitive programming
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
