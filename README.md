@@ -52,13 +52,6 @@
     </td>
    </tr>
   <tr>
-  <tr>
-    <td>
-      <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer2403&theme=ayu-mirage&hide_border=true" alt="sameer streak stats">
-      <a/>
-    </td>
-   </tr>
 </table>
   
   <p align="center">
