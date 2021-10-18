@@ -1,5 +1,5 @@
-### Hello World, I'm Sameer  👋
-
+<h1 align="center">Hello World 👋, I'm Sameer Suman</h1>
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="480px"/>
  
 <img src="https://komarev.com/ghpvc/?username=sameer2403&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="saikatbishal github profil visit" />
 
