@@ -1,7 +1,9 @@
+[![Gmail Badge](https://img.shields.io/badge/-sameersuman2403@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sameersuman2403@gmail.com)](mailto:sameersuman2403@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Sameer%20Suman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sameer2403/)](https://www.linkedin.com/in/sameer2403/) [![GitHub followers](https://img.shields.io/github/followers/sameer2403?label=Follow&style=social)](https://github.com/sameer2403/?tab=follow) ![profile views](https://komarev.com/ghpvc/?username=sameer2403&color=brightgreen&style=flat-square) <a href="https://twitter.com/SameerSuman03" target="_blank">
+    <img alt="@sameersuman03 Twitter Follow" src="https://img.shields.io/twitter/follow/SameerSuman03?style=social">
+  <a/>
 <h1 align="center">Hello World 👋, I'm Sameer Suman</h1>
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="480px"/>
  
-<img src="https://komarev.com/ghpvc/?username=sameer2403&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="saikatbishal github profil visit" />
 
 ## I'm an Open-Source enthusiast !!
 - 🌱 I’m currently learning Backend and trying my hands on competitive programming
@@ -54,12 +56,3 @@
   <tr>
 </table>
   
-  <p align="center">
-  <a href="https://linkedin.com/in/sameer2403" target="_blank">
-    <img alt=" Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a/>
-  <a href="https://twitter.com/SameerSuman03" target="_blank">
-    <img alt="@sameersuman03 Twitter Follow" src="https://img.shields.io/twitter/follow/SameerSuman03?style=social">
-  <a/>
-</p>
-
