@@ -2,7 +2,7 @@
     <img alt="@sameersuman03 Twitter Follow" src="https://img.shields.io/twitter/follow/SameerSuman03?style=social">
   <a/>
 <h1 align="center">Hello World 👋, I'm Sameer Suman</h1>
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="480px"/>
+
  
 
 ## I'm an Open-Source enthusiast !!
