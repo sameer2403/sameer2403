@@ -16,19 +16,6 @@
 
 
 <br />
-<br />
-
-### Technologies
-
-
-
-
-<a href="https://www.photoshop.com/en" target="_blank"> <img align "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank">
-<a href="https://postman.com" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" margin ="10px"/> </a>
-      <a href="https://git-scm.com/" target="_blank"> <img align ="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-     
-<br/>
-<br/>
 ---
 
 ### Stats 📈
